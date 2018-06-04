@@ -1729,7 +1729,7 @@
             },
             {
                 "name": "Chuleta acebolada",
-                "description": "que tal uma refeição saborosa e completa ?, pega essa chuleta supimpa então.",
+                "description": "Que tal uma refeição saborosa e completa ?, pega essa chuleta supimpa então.",
                 "image": "https://truffle-assets.imgix.net/eb11f77b-chuleta-acebolada_l_thumb.jpg",
                 "ingredients": [
                     {
@@ -2471,7 +2471,7 @@
                 ]
             }
         ],
-        "italiana": [
+        "italian": [
             {
                 "name": "Rigatone com queijo de cabra",
                 "description": "vivere la vita,cazzo!",
@@ -2736,7 +2736,7 @@
                 ]
             }
         ],
-        "brasileira": [
+        "brazilian": [
             {
                 "name": "Pão de queijo de liquidificador",
                 "description": "Pão de queijo simples e super saboroso",
@@ -4264,7 +4264,7 @@
                     {
                         "unity": "pitada",
                         "number": 1,
-                        "nome": "sal"
+                        "name": "sal"
                     },
                     {
                         "unity": "xícara",
@@ -4459,7 +4459,7 @@
                 ]
             },
             {
-                "nome": "Cookies de amendoim",
+                "name": "Cookies de amendoim",
                 "description": "É uma boa opção para levar na marmita como lanche fit. A receita rende dois cookies grandes ou quatro médios.",
                 "image": "http://cozinhafit.com.br/wp-content/uploads/2017/02/FullSizeRender.jpg",
                 "ingredients": [
@@ -4526,52 +4526,6 @@
                     "- Molde de forma achatada, recheie com pasta de amendoim, e feche o docinho em forma de bolinha.",
                     "- Enrole e passe no amendoim moído o brigadeiro, um por um. Não precisa ser em amendoim, pode ser em cacau, whey de baunilha, pistache moído… o que preferir.",
                     "- Coloque no congelador ou geladeira por 30 minutos. O brigadeiro tem que estar durinho por fora mas não como uma pedra."
-                ]
-            },
-            {
-                "nome": "Bolinho de micro",
-                "description": "É rápido, é fácil e é prático. Você pode usar uma banana e um ovo como base e incrementando com os ingredientes que tiver em casa. Rende 4 bolinhos.",
-                "image": "http://cozinhafit.com.br/wp-content/uploads/2016/11/bolinho-de-micro-800x533.jpg",
-                "ingredients": [
-                    {
-                        "unity": "unidade",
-                        "number": 2,
-                        "name": "ovos"
-                    },
-                    {
-                        "unity": "unidade",
-                        "number": 2,
-                        "name": "bananas médias"
-                    },
-                    {
-                        "unity": "xícara",
-                        "number": 0.5,
-                        "name": "farelo de aveia"
-                    },
-                    {
-                        "unity": "unidade",
-                        "number": 3,
-                        "name": "ameixas secas"
-                    },
-                    {
-                        "unity": "colher de café",
-                        "number": 1,
-                        "name": "mel"
-                    },
-                    {
-                        "unity": "colher de café",
-                        "number": 1,
-                        "name": "cacau em pó sem açúcar"
-                    },
-                    {
-                        "unity": "a gosto",
-                        "number": null,
-                        "name": "canela"
-                    }
-                ],
-                "preparation": [
-                    "- Coloque todos os ingredientes em um recipiente e misture com um mixer, ou bata tudo no liquificador;",
-                    "- Coloque em forminhas de silicone ou xícara grande de porcelana e leve ao microondas por 2 minutos. Retire da forminha e leve ao micro por mais 15 segundos."
                 ]
             },
             {
@@ -7099,7 +7053,7 @@
                 ]
             }
         ],
-        "francesa": [
+        "french": [
             {
                 "name": "Crepe suzette",
                 "description": "Uma sobremesa de outra cultura muito simples de fazer !!",
@@ -7534,6 +7488,280 @@
                 ],
                 "preparation": [
                     " Bater no liquidificador todos os ingredientes, coar e beber a seguir, de preferência sem adoçar. "
+                ]
+            }
+        ],
+        "japanese": [
+            {
+                "name": "Bifum com filé de porco",
+                "description": "Para uma refeição simples,aposte no bifum,o macarrão oriental feito de arroz",
+                "image": "http://figosefunghis.com.br/wp-content/uploads/2012/07/Miffum4-2-c%C3%B3pia.jpg",
+                "ingredients": [
+                    {
+                        "unity": "g",
+                        "number": 500,
+                        "name": "bifum"
+                    },
+                    {
+                        "unity": "unidade",
+                        "number": 0.50,
+                        "name": "pimentão verde cortado em tiras"
+                    },
+                    {
+                        "unity": "unidade",
+                        "number": 0.50,
+                        "name": "pimentão amarelo cortado em tiras"
+                    },
+                    {
+                        "unity": "unidade",
+                        "number": 0.50,
+                        "name": "pimentão vermelho em cortado tiras"
+                    },
+                    {
+                        "unity": "unidade",
+                        "number": 0.50,
+                        "name": "cenoura cortada em bastões"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 100,
+                        "name": "cogumelos cortados em quatro"
+                    },
+                    {
+                        "unity": "unidade",
+                        "number": 1,
+                        "name": "cebola cortada em fatias"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 300,
+                        "name": "filé de porco cortado em tiras"
+                    },
+                    {
+                        "unity": "ml",
+                        "number": 15,
+                        "name": "azeite"
+                    },
+                    {
+                        "unity": "dente",
+                        "number": 1,
+                        "name": "alho picado"
+                    },
+                    {
+                        "unity": "ml",
+                        "number": 30,
+                        "name": "shoyu"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 300,
+                        "name": "filé de porco cortado em tiras"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 40,
+                        "name": "cebolinha picada"
+                    },
+                    {
+                        "unity": "ml",
+                        "number": 8,
+                        "name": "óleo de gergelim"
+                    },
+                    {
+                        "unity": "ml",
+                        "number": 30,
+                        "name": "água"
+                    },
+                    {
+                        "unity": "a gosto",
+                        "number": null,
+                        "name": "sal"
+                    },
+                    {
+                        "unity": "a gosto",
+                        "number": null,
+                        "name": "pimenta"
+                    }
+                ],
+                "preparation": [
+                    " Frite o alho em uma frigideira com o azeite quente ",
+                    " Tempere o filezinho com sal e pimenta e refogue com o alho em fogo alto ",
+                    " Acrescente as cebolas e os pimentões ",
+                    " Quando estiverem começando a ficar macios, coloque os cogumelos ",
+                    " Deglace a frigideira com a água, adicione o bifum e o shoyo, abaixe o fogo e misture bem ",
+                    " Finalize com a cebolinha e o óleo de gergelim",
+                    " Sirva"
+                ]
+            },
+            {
+                "name": "Sunomono",
+                "description": "Típica da culinária japonesa, a salada de pepinos é perfeita para servir como entradinha ",
+                "image": "http://alessamori.com/wp-content/uploads/2017/01/como-fazer-sunomono-de-pepino-e-kani-como-fazer-salada-de-pepino-japones-agridoce.jpg",
+                "ingredients": [
+                    {
+                        "unity": "unidade",
+                        "number": 4,
+                        "name": "pepinos japoneses cortados em fatias"
+                    },
+                    {
+                        "unity": "ml",
+                        "number": 400,
+                        "name": "vinagre de arroz"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 320,
+                        "name": "açúcar"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 10,
+                        "name": "sal"
+                    },
+                    {
+                        "unity": "a gosto",
+                        "number": null,
+                        "name": "gergelim"
+                    }
+                ],
+                "preparation": [
+                    " Coloque os pepinos numa peneira, acrescente o sal e deixe desidratar por 30 minutos ",
+                    " Lave os pepinos para retirar o excesso de sal ",
+                    " Em uma panela, ferva o vinagre e o açúcar. Deixe esfriar e reserve ",
+                    " Coloque num pote fechado o líquido já frio e os pepinos e leve a geladeira por pelo menos 8h ",
+                    " Quando for comer, finalize com o gergelim torrado ",
+                    " Sirva "
+                ]
+            },
+            {
+                "name": "Tonkatsu",
+                "description": "Essa receita de empanado de porco é uma das mais tradicionais da culinária japonesa ",
+                "image": "https://i.ytimg.com/vi/J-hniTs-hPs/maxresdefault.jpg",
+                "ingredients": [
+                    {
+                        "unity": "g",
+                        "number": 400,
+                        "name": "carne de porco cortada em filé"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 120,
+                        "name": "farinha panko"
+                    },
+                    {
+                        "unity": "ml",
+                        "number": 240,
+                        "name": "óleo"
+                    },
+                    {
+                        "unity": "a gosto",
+                        "number": null,
+                        "name": "sal"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 2,
+                        "name": "orégano"
+                    },
+                    {
+                        "unity": "a gosto",
+                        "number": null,
+                        "name": "pimenta"
+                    },
+                    {
+                        "unity": "a gosto",
+                        "number": null,
+                        "name": "sal"
+                    },
+                    {
+                        "unity": "a gosto",
+                        "number": null,
+                        "name": "pimenta"
+                    }
+                ],
+                "preparation": [
+                    " Coloque o óleo para aquecer em uma panela ",
+                    " Tempere os filezinhos de porco com sal e pimenta ",
+                    " Empane os filés ",
+                    " Frite em óleo quente até ficarem dourados e cozidos ",
+                    " Retire e sirva "
+                ]
+            },
+            {
+                "name": "Picles de nabo japonês tostado",
+                "description": "Chamado de Daikon, o nabo fica imerso em solução à base de vinagre, açúcar e sal",
+                "image": "http://s2.glbimg.com/hb_TsO2EGS7B2k29nDnuFtBAXl8=/300x190/filters:quality(80)/s2.glbimg.com/C0NRTg65xfqANvKcpeBnEMzG_Tk=/300x187/g.glbimg.com/og/gs/gsat5/f/thumbs/materia/2017/04/03/picles_de_nabo_tostados.jpg",
+                "ingredients": [
+                    {
+                        "unity": "unidade",
+                        "number": 1,
+                        "name": "nabo"
+                    },
+                    {
+                        "unity": "ml",
+                        "number": 200,
+                        "name": "vinagre de arroz"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 50,
+                        "name": "açucar"
+                    },
+                    {
+                        "unity": "a gosto",
+                        "number": null,
+                        "name": "sal"
+                    }
+                ],
+                "preparation": [
+                    " Descasque o nabo e corte em pedaços de 2 dedos de espessura ",
+                    " Leve para grelhar na brasa ",
+                    " Coloque feno por baixo das grelhas e deixe defumar o nabo ",
+                    " Ferva em uma panela vinagre, açúcar e sal e reserve em um recipiente ",
+                    " Retire o nabo e coloque dentro dessa solução de vinagre e mantenha por aproximandamente 10 min ",
+                    " Retire e sirva "
+                ]
+            },
+            {
+                "name": "Yakitori",
+                "description": "Tradicional espetinho japonês de frango tem molho Tarê, feito à base de Shoyu, saquê e açúcar mascavo",
+                "image": "http://jpninfo.com/wp-content/uploads/2015/08/Fotolia_134177068_Subscription_Monthly_M.jpg",
+                "ingredients": [
+                    {
+                        "unity": "g",
+                        "number": 350,
+                        "name": "peito de frango"
+                    },
+                    {
+                        "unity": "unidade",
+                        "number": 20,
+                        "name": "coração de frango"
+                    },
+                    {
+                        "unity": null,
+                        "number": null,
+                        "name": "Pele de frango"
+                    },
+                    {
+                        "unity": "unidade",
+                        "number": 20,
+                        "name": "mini quiabos"
+                    },
+                    {
+                        "unity": "a gosto",
+                        "number": null,
+                        "name": "Molho Tarê"
+                    }
+                ],
+                "preparation": [
+                    " Coloque os espetos de bamboo na água para amolecer ",
+                    " Remova pele do frango e corte ao meio e espete com cuidado para não rasgar ",
+                    " Corte o peito de frango em cubos e faça espetinhos também ",
+                    " Fazer o mesmo com o coração de frango ",
+                    " Corte as extremidades do quiabo e faça espetinhos ",
+                    " Pincele molho tarê sobre os espetinhos de peito e coração e leve a brasa por aproximadamente 10 minutos de cada lado, ou até que estejam caramelizados",
+                    " Coloque os espetinhos de pele de frango e quiabo na brasa também, porém, só devem ser regados com tarê ao final do cozimento (aproximadamente 10 minutos de cada lado ou até que fiquem dourados) ",
+                    " Pincele com tarê todos os espetinhos depois de prontos e sirva"
                 ]
             }
         ]
