@@ -2469,6 +2469,367 @@
                     " Leve à geladeira por no mínimo 3 horas ou até que o doce fique bem gelado ",
                     " Retire o doce da geladeira e sirva a seguir "
                 ]
+            },
+            {
+                "name": "Mousse de maracujá",
+                "description": "Sobremesa de 4 ingredientes e super deliciosa.",
+                "image": "http://www.leitecamponesa.com.br/wp-content/uploads/2015/03/pic-thumb-mousse-maracuja.jpg",
+                "ingredients": [
+                    {
+                        "unity": "ml",
+                        "number": 200,
+                        "name": "suco de maracujá concentrado"
+                    },
+                    {
+                        "unity": "lata",
+                        "number": 1,
+                        "name": "leite condensado"
+                    },
+                    {
+                        "unity": "lata",
+                        "number": 1,
+                        "name": "creme de leite"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 12,
+                        "name": "gelatina incolor"
+                    },
+                    {
+                        "unity": "unidade",
+                        "number": 2,
+                        "name": "polpa de maracujás maduros"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 10,
+                        "name": "açúcar"
+                    },
+                    {
+                        "unity": "ml",
+                        "number": 80,
+                        "name": "água"
+                    }
+                ],
+                "preparation": [
+                    " Preparar a gelatina conforme as instruções da embalagem",
+                    " Bata no liquidificador o suco de maracujá, o leite condensado e o creme de leite até obter um creme aerado. Incorpore a gelatina e bata por 1 a 2 minutos para misturar bem. ",
+                    " Distribua em taças individuais e leve à geladeira por 4 a 6 horas ou até ficar consistente. Sirva regadas com a calda. ",
+                    " Para fazer a calda, levar as duas polpas de maracujá o açúcar e a água ao fogo e ferva por 2 a 3 minutos, utilize fria. "
+                ]
+            },
+            {
+                "name": "Picolé de milho",
+                "description": "Picolé com 4 ingredientes ",
+                "image": "http://www.deliciasdomilhorp.com.br/picole-de-milho0.jpg?v=7r5tyo5e8y9inr1",
+                "ingredients": [
+                    {
+                        "unity": "lata",
+                        "number": 1,
+                        "name": "leite condensado"
+                    },
+                    {
+                        "unity": "latas",
+                        "number": 2,
+                        "name": "latas de milho-verde escorridas"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 60,
+                        "name": "cream cheese"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 200,
+                        "name": "creme de leite"
+                    }
+                ],
+                "preparation": [
+                    "Bata os ingredientes no liquidificador até triturar bem. Coe a mistura, disponha em um pote com tampa e leve ao freezer por umas 2 horas ou até congelar levemente, sem ficar muito duro",
+                    "Bata a mistura novamente no liquidificador (se estive muito dura, deixe amolecer um pouco) e distribua em copinhos de café (80 ml cada)",
+                    "Insira um palito em cada copinho e leve ao freezer por mais umas 4 horas ou até endurecer completamente antes de desenformar e servir."
+                ]
+            },
+            {
+                "name": "Pudim de iogurte com calda de morango",
+                "description": "Uma ótima opção para sobremesa de domingo.",
+                "image": "http://www.comperjuntocomvoce.com.br/wp-content/uploads/2017/03/blog_pudim.png",
+                "ingredients": [
+                    {
+                        "unity": "g",
+                        "number": 400,
+                        "name": "iogurte grego"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 200,
+                        "name": "creme de leite"
+                    },
+                    {
+                        "unity": "latas",
+                        "number": 2,
+                        "name": "leite condensado"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 300,
+                        "name": "morango cortados em 4"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 80,
+                        "name": "açúcar cristal"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 5,
+                        "name": "amido de milho"
+                    },
+                    {
+                        "unity": "ml",
+                        "number": 60,
+                        "name": "suco de limão"
+                    }
+                ],
+                "preparation": [
+                    "Bata os ingredientes no liquidificador e disponha em fôrma de cone central (20 cm de diâmetro) untada com óleo ",
+                    "Leve ao forno médio preaquecido (180°C), em banho-maria (use água quente), por cerca de 40 minutos ou até firmar",
+                    "Deixe esfriar e leve à geladeira por cerca de 3 horas antes de desenformar. Sirva com a calda de morango",
+                    "Para fazer a calda de morango, leve o morango com o açúcar cristal ao fogo médio até cozinhar (uns 5 minutos). Adicione o amido dissolvido no suco de limão e cozinhe, mexendo sempre, até encorpar (cerca de 3 minutos). Utilize fria. "
+                ]
+            },
+            {
+                "name": "Cocada de micro-ondas",
+                "description": "Com ela, não tem desculpa. Com 15 minutinhos, 3 ingredientes e um microondas você faz um doce de colher. ",
+                "image": "https://i.pinimg.com/originals/27/fc/50/27fc50cb87bde6e43e15288bf0327408.jpg",
+                "ingredients": [
+                    {
+                        "unity": "lata",
+                        "number": 1,
+                        "name": "leite condensado"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 320,
+                        "name": "açúcar"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 100,
+                        "name": "coco ralado"
+                    }
+                ],
+                "preparation": [
+                    " Misture os ingredientes em um refratário e leve ao micro-ondas, em potência alta, por 6 minutos. "
+                ]
+            },
+            {
+                "name": "Paçoca de nozes com chocolate",
+                "description": " Paçoca diferenciada e super macia.  ",
+                "image": "http://educadoradv.com.br/ipanel/uploads/receitas/1907/Interna.jpg",
+                "ingredients": [
+                    {
+                        "unity": "g",
+                        "number": 150,
+                        "name": "nozes"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 80,
+                        "name": "açúcar"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 60,
+                        "name": "flocos de milho pré cozido"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 50,
+                        "name": "chocolate meio amargo derretido"
+                    }
+                ],
+                "preparation": [
+                    " No processador, pulse as nozes com o açúcar e os flocos de milho até formar uma farofa ",
+                    "Transfira para uma tigela e agregue o chocolate derretido, misturando com as mãos, até ficar uniforme e úmido",
+                    "Apoie um aro redondo (2,5 cm de diâmetro x 4 cm de altura) sobre uma superfície lisa e modele as paçocas: preencha o aro com a massa, pressionando bem para compactar, e desenforme com cuidado, empurrando a paçoca para fora do aro",
+                    "Sirva em temperatura ambiente."
+                ]
+            },
+            {
+                "name": "Suspiro caseiro",
+                "description": "Totalmente caseiro",
+                "image": "https://comidinhasdochef.com/wp-content/uploads/2015/07/Receita-de-Suspiro-Caseiro.jpg",
+                "ingredients": [
+                    {
+                        "unity": "unidade",
+                        "number": 3,
+                        "name": "Clara batida em neve"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 240,
+                        "name": "açúcar"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 7,
+                        "name": "fermento"
+                    },
+                    {
+                        "unity": "ml",
+                        "number": 5,
+                        "name": "essência de baunilha ou limão"
+                    }
+                ],
+                "preparation": [
+                    "Prepare as claras em neve: bata as claras com a metade do açúcar até dar o ponto",
+                    "Adicione a outra metade do açúcar peneirado com o fermento e a essência de baunilha (ou limão) e misture",
+                    "Coloque colheredas da mistura em uma forma untada com manteiga e asse em forno baixo pré-aquecido por 40 minutos."
+                ]
+            },
+            {
+                "name": "Bala de caramelo",
+                "description": "Bala deliciosa que derrete na boca e melhor, totalmente feita por você! ",
+                "image": "https://www.cozinhasitatiaia.com.br/wp-content/uploads/2017/02/bala-de-caramelo9.jpg",
+                "ingredients": [
+                    {
+                        "unity": "g",
+                        "number": 400,
+                        "name": "Açúcar"
+                    },
+                    {
+                        "unity": "ml",
+                        "number": 360,
+                        "name": "Glucose de milho"
+                    },
+                    {
+                        "unity": "ml",
+                        "number": 480,
+                        "name": "Creme de leite fresco"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 225,
+                        "name": "Manteiga"
+                    },
+                    {
+                        "unity": "ml",
+                        "number": 5,
+                        "name": "Baunilha"
+                    }
+                ],
+                "preparation": [
+                    "Unte uma forma retangular e reserve",
+                    "Junte o açúcar, a glucose de milho, 1 xícara de creme de leite e a manteiga numa panela. Deixe ferver, mexendo sempre, e adicione o resto do creme de leite",
+                    "Aqueça novamente, sem mexer, até atingir ponto de bala mole (115ºC). Retire do fogo, junte a baunilha, despeje na forma untada e leve à geladeira",
+                    "Depois de frio, deixe a forma em temperatura ambiente e corte em quadrados para formar as balinhas. Sirva em seguida."
+                ]
+            },
+            {
+                "name": "Suspiro de coco",
+                "description": "O suspiro diferenciado com somente 3 ingredientes",
+                "image": "https://i.ytimg.com/vi/EqahqHtm1_U/maxresdefault.jpg",
+                "ingredients": [
+                    {
+                        "unity": "unidade",
+                        "number": 4,
+                        "name": "Claras de ovo "
+                    },
+                    {
+                        "unity": "g",
+                        "number": 200,
+                        "name": "Açúcar"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 200,
+                        "name": "Coco ralado seco"
+                    }
+                ],
+                "preparation": [
+                    "Preaqueça o forno em temperatura baixa (150ºC) e forre 2 assadeiras com papel manteiga",
+                    "Bata as claras em neve até formar picos firmes e adicione o açúcar aos poucos, sem parar de bater. Coloque o coco por último, aos poucos, e misture delicadamente com uma colher",
+                    "Coloque os suspiros na assadeira usando 1 colher (chá) da massa para cada um. Mantenha um espaço entre eles porque vão crescer enquanto assam",
+                    "Leve ao forno e asse por 15-20 minutos. Retire do forno, deixe esfriar nas assadeiras e retire-os delicadamente com uma espátula. Conserve numa vasilha tampada."
+                ]
+            },
+            {
+                "name": "Banana caramelada",
+                "description": "Banana caramelada é um prato favorito de todos, esta receita é rápida e fica uma delícia.",
+                "image": "https://panelaterapia.com/wp-content/uploads/2013/08/banana_caramelizada.jpg",
+                "ingredients": [
+                    {
+                        "unity": "g",
+                        "number": 24,
+                        "name": "Manteiga"
+                    },
+                    {
+                        "unity": "unidade",
+                        "number": 5,
+                        "name": "Bananas sem casca"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 320,
+                        "name": "Açúcar"
+                    },
+                    {
+                        "unity": "ml",
+                        "number": 240,
+                        "name": "Água fervente"
+                    },
+                    {
+                        "unity": "unidade",
+                        "number": null,
+                        "name": "Canela para polvilhar "
+                    }
+                ],
+                "preparation": [
+                    "Em uma frigideira, derreta a manteiga e adicione as bananas sem cascas. Frite-as por aproximadamente 5 minutos de todos os lados, ou até que eles estejam bem douradas. Retire do fogo e reserve",
+                    "Em uma panela de fundo grosso, adicione o açúcar e leve ao fogo baixo",
+                    "Cozinhe até o açúcar começar a derreter e adquirir uma cor de caramelo bem claro",
+                    "Imediatamente adicione a água fervente e mexa para dissolver o açúcar",
+                    "Adicione as bananas fritas, e mexa delicadamente. Cozinhe por cerca de 3 a 5 minutos, ou até que as bananas estejam bem carameladas",
+                    "Desligue o fogo e transfira as bananas para um prato raso",
+                    "Polvilhe com canela em pó e sirva quente."
+                ]
+            },
+            {
+                "name": "Geleia de kiwi",
+                "description": "Faça esta geléia, é diferente e deliciosa. Não leva conservantes artificiais, a maçã faz parte da receita pois é uma fonte natural de pectina.",
+                "image": "http://jornadavegana.com/wp-content/uploads/2015/07/geleia-de-kiwi-5-Small.jpg",
+                "ingredients": [
+                    {
+                        "unity": "unidade",
+                        "number": 24,
+                        "name": "Kiwi descascados e amassados em purê"
+                    },
+                    {
+                        "unity": "ml",
+                        "number": 175,
+                        "name": "Suco de abacaxi"
+                    },
+                    {
+                        "unity": "ml",
+                        "number": 60,
+                        "name": "Suco de limão siciliano natural"
+                    },
+                    {
+                        "unity": "unidade",
+                        "number": null,
+                        "name": "Maçã com casca e cortadas ao meio"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 800,
+                        "name": "Açúcar"
+                    }
+                ],
+                "preparation": [
+                    "Em uma panela grande, coloque para ferver o kiwi em purê, o suco de abacaxi, o suco de limão e as maçãs. Depois que tenha fervido, acrescente o açúcar e mexa até dissolver. Abaixe o fogo e cozinhe por 30 minutos",
+                    "Retire as maçãs, coloque a geleia em potes esterelizados. "
+                ]
             }
         ],
         "italian": [
