@@ -579,6 +579,166 @@
                     " Desligue o fogo, acrescente as folhas de manjericão e o queijo ralado ",
                     " Misture ligeiramente com o espaguete e sirva em seguida "
                 ]
+            },
+            {
+                "name": "Lasanha de batatas à bolonhesa",
+                "description": "Experimente fazer em casa essa lasanha de batatas com recheio à bolonhesa!",
+                "image": "https://truffle-assets.imgix.net/84cnzp0itw1q_3vml1BjL2g2SOOcYyCC8yc_lasanha-bolonhesa_squareThumbnail_en-US.jpeg",
+                "ingredients": [
+                    {
+                        "unity": "null",
+                        "number": null,
+                        "name": "azeita para refogar"
+                    },
+                    {
+                        "unity": "unidade",
+                        "number": 1,
+                        "name": "cebola picada"
+                    },
+                    {
+                        "unity": "dentes",
+                        "number": 2,
+                        "name": "alho picado"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 400,
+                        "name": "carne moída"
+                    },
+                    {
+                        "unity": "a gosto",
+                        "number": null,
+                        "name": "sal"
+                    },
+                    {
+                        "unity": "a gosto",
+                        "number": null,
+                        "name": "pimenta-do-reino"
+                    },
+                    {
+                        "unity": "ml",
+                        "number": 30,
+                        "name": "extrato de tomate"
+                    },
+                    {
+                        "unity": "lata",
+                        "number": 1,
+                        "name": "tomate pelado"
+                    },
+                    {
+                        "unity": "a gosto",
+                        "number": null,
+                        "name": "salsinha picada"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 24,
+                        "name": "manteiga"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 15,
+                        "name": "farinha"
+                    },
+                    {
+                        "unity": "ml",
+                        "number": 720,
+                        "name": "leite"
+                    },
+                    {
+                        "unity": "a gosto",
+                        "number": null,
+                        "name": "noz-moscada"
+                    },
+                    {
+                        "unity": "unidade",
+                        "number": 3,
+                        "name": "batata cortada em rodela"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 150,
+                        "name": "presunto em fatias"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 150,
+                        "name": "queijo em fatias"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 100,
+                        "name": "queijo muçarela ralado"
+                    }
+                ],
+                "preparation": [
+                    "Em uma frigideira quente, dispor o azeite e refogar a cebola e o alho",
+                    "Juntar a carne e temperar com sal e pimenta-do-reino",
+                    "Quando estiver bem dourada juntar o extrato de tomate e o tomate pelado",
+                    "Deixar cozinhar bem até que ficar um molho espesso. Juntar a salsinha. Reservar",
+                    "Em uma panela, derreter a manteiga e juntar a farinha sempre mexendo",
+                    "Juntar o leite sem parar de mexer até ficar consistente",
+                    "Temperar com sal e noz-moscada. Reservar",
+                    "Em uma forma refratária untada, dispor uma camada de batatas, uma porção de molho de carne, presunto em fatias e queijo em fatias. Repetir o processo, finalizando com uma camada de batatas, molho branco e queijo muçarela ralado",
+                    "Levar ao forno a 200 graus por 30 minutos."
+                ]
+            },
+            {
+                "name": "Macarrão com frango e creme de leite",
+                "description": "http://www.belezafeminina.pro.br/wp-content/uploads/2017/04/macarrao-na-panela-de-pressao.jpg",
+                "image": "Prato extremamente saboroso",
+                "ingredients": [
+                    {
+                        "unity": "g",
+                        "number": 500,
+                        "name": "macarrão tipo espaguete"
+                    },
+                    {
+                        "unity": "unidade",
+                        "number": 1,
+                        "name": "peito de frango"
+                    },
+                    {
+                        "unity": "lata",
+                        "number": 1,
+                        "name": "milho"
+                    },
+                    {
+                        "unity": "unidade",
+                        "number": 1,
+                        "name": "cabola grande picada em cubos"
+                    },
+                    {
+                        "unity": "colher",
+                        "number": 1,
+                        "name": "óleo"
+                    },
+                    {
+                        "unity": "dentes",
+                        "number": 2,
+                        "name": "alho picado"
+                    },
+                    {
+                        "unity": "a gosto",
+                        "number": null,
+                        "name": "sal"
+                    },
+                    {
+                        "unity": "sachê",
+                        "number": 1,
+                        "name": "sazón vermelho"
+                    }
+                ],
+                "preparation": [
+                    "Em uma panela grande ferva a água, quando ferver acrescente o macarrão espaguete de preferência quebrado ao meio, cozinhe por aproximadamente 15 minutos",
+                    "Cozinhe o peito de frango em uma panela de pressão por aproximadamente 10 minutos, depois de cozido desfie e reserve",
+                    "Enquanto o macarrão cozinha, em uma panela média coloque o óleo, alho e a cebola e deixe dourar",
+                    "Quando o alho estiver dourado e a cebola transparente acrescente o peito, mexa por uns 30 segundos",
+                    "Em seguida acrescente o milho com a água, quando começar a ferver coloque o creme de leite",
+                    "Coloque o sazón e o sal a gosto",
+                    "Deixe por mais cinco minutos em fogo baixo",
+                    "Depois coloque o macarrão escorrido em uma travessa e coloque o molho por cima e mexa com cuidado."
+                ]
             }
         ],
         "practices": [
@@ -1931,6 +2091,211 @@
                     " Juntar o tomate picado, temperar com sal e pimenta, juntar a água e deixar cozinhar até o tomate se desmanchar e virar um molho ",
                     " Juntar as almôndegas seladas e deixar cozinhar por 5 minutos. "
                 ]
+            },
+            {
+                "name": "Filé a parmegiana",
+                "description": "Macio e saboroso.",
+                "image": "https://portal.minervafoods.com/files/styles/blog_full_page/public/file_a_parmeggiana.jpg?",
+                "ingredients": [
+                    {
+                        "unity": "unidades",
+                        "number": 10,
+                        "name": "filé mignon"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 120,
+                        "name": "farinha de trigo"
+                    },
+                    {
+                        "unity": "unidades",
+                        "number": 2,
+                        "name": "ovo"
+                    },
+                    {
+                        "unity": "a gosto",
+                        "number": null,
+                        "name": "sal"
+                    },
+                    {
+                        "unity": null,
+                        "number": null,
+                        "name": "farinha de rosca para empanar"
+                    },
+                    {
+                        "unity": "lata",
+                        "number": 1,
+                        "name": "extrato de tomate"
+                    },
+                    {
+                        "unity": null,
+                        "number": null,
+                        "name": "pitada de açúcar"
+                    },
+                    {
+                        "unity": "fatias",
+                        "number": 10,
+                        "name": "mussarela"
+                    }
+                ],
+                "preparation": [
+                    "Corte o filé em bifes não muito finos (por favor não bata) e tempere-os a gosto",
+                    "Passe os bifes na farinha de trigo",
+                    "Bata ligeiramente os ovos (dois ou mais) com uma pitadinha de sal e passe os bifes nessa mistura",
+                    "Passe os bifes na farinha de rosca",
+                    "Faça com que a massa fique bem aderida aos bifes",
+                    "Frite os bifes, deixe-os em papel toalha para que sequem bem e coloque-os em uma forma refratária.",
+                    "Para realizar a montagem do prato:",
+                    "Faça um molho com extrato de tomate e uma pitadinha de açúcar e coloque sobre os filés",
+                    "O melhor sempre será o seu próprio molho de tomates",
+                    "Cubra-os com as fatias de mussarela e coloque no forno por aproximadamente 10 minutos",
+                    "Pessoalmente prefiro queijo prato e recomendo polvilhar bastante queijo parmesão ralado, antes de gratinar",
+                    "Para acompanhar batatas fritas bem douradas e arroz branco."
+                ]
+            },
+            {
+                "name": "Vaca atolada",
+                "description": "Receita básica para um almoço em família",
+                "image": "http://4.bp.blogspot.com/-aLTJSn48n4c/T2IJvzPYcII/AAAAAAAAApw/YNS1ohVFXjA/s1600/vaca%2Batolada.jpg",
+                "ingredients": [
+                    {
+                        "unity": "kg",
+                        "number": 1,
+                        "name": "carne bovina"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 500,
+                        "name": "mandioca, sem o fio do centro"
+                    },
+                    {
+                        "unity": "a gosto",
+                        "number": null,
+                        "name": "alho, cebola e sal"
+                    },
+                    {
+                        "unity": null,
+                        "number": null,
+                        "name": "cheiro verde"
+                    }
+                ],
+                "preparation": [
+                    "Em uma panela de pressão frite as costelas em óleo até estarem douradas de todos os lados",
+                    "Coloque o alho amassado e frite um pouco, em seguida frite a cebola, em fatias ou picada, como preferir",
+                    "Acrescente bastante água, salgando a seu gosto",
+                    "Cozinhe as costelas até que os ossos se soltem da carne, aproximadamente 40 minutos depois que pegou pressão",
+                    "Retire as costelas, separando e descartando os ossos",
+                    "Passe o caldo para uma panela grande",
+                    "Acrescente a mandioca cozida e espremida, sem aquele fio que fica no meio",
+                    "Coloque a carne e deixe cozinhar em fogo baixo por 15 minutos",
+                    "Se ficar muito grosso, coloque mais água",
+                    "Não pode ficar com o caldo nem ralo nem espesso demais",
+                    "Salpique com o cheiro verde no momento de servir."
+                ]
+            },
+            {
+                "name": "Espetinho de carne",
+                "description": "Famoso espetinho de gato encrementado",
+                "image": "https://1344552651.rsc.cdn77.org/prod/imagens/receita/17248/espetinho-de-frigideira-19132.jpg",
+                "ingredients": [
+                    {
+                        "unity": "g",
+                        "number": 500,
+                        "name": "alcatra ou contrafilé em cubos"
+                    },
+                    {
+                        "unity": "a gosto",
+                        "number": null,
+                        "name": "sal e pimenta do reino"
+                    },
+                    {
+                        "unity": "ml",
+                        "number": 50,
+                        "name": "vinho tinto"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 200,
+                        "name": "queijo coalho em cubos"
+                    },
+                    {
+                        "unity": "unidade",
+                        "number": 0.5,
+                        "name": "pimentão em cubos"
+                    },
+                    {
+                        "unity": "unidade",
+                        "number": 1,
+                        "name": "cebola cortada em 8"
+                    },
+                    {
+                        "unity": null,
+                        "number": null,
+                        "name": "óleo para untar a frigideira"
+                    }
+                ],
+                "preparation": [
+                    "Tempere a carne com sal e pimenta a gosto. Coloque numa tigela e regue com o vinho. Deixe tomar gosto por 10 minutos",
+                    "Monte os espetinhos, alternando pedaços de carne, queijo, pimentões e cebola",
+                    "Aqueça bem uma frigideira grande ou uma chapa untada com óleo e doure os espetinhos de todos os lados até o ponto desejado."
+                ]
+            },
+            {
+                "name": "Carne guisada",
+                "description": "Para um dia frio, é uma boa escolha!",
+                "image": "https://1344552651.rsc.cdn77.org/prod/imagens/receita/17240/carne-guisada-19118.jpg",
+                "ingredients": [
+                    {
+                        "unity": "ml",
+                        "number": 45,
+                        "name": "óleo"
+                    },
+                    {
+                        "unity": "unidades",
+                        "number": 2,
+                        "name": "cebolas picadas"
+                    },
+                    {
+                        "unity": "dentes",
+                        "number": 3,
+                        "name": "alho espremidos"
+                    },
+                    {
+                        "unity": "kg",
+                        "number": 1,
+                        "name": "alcatra limpa em cubos"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 140,
+                        "name": "tomate picado"
+                    },
+                    {
+                        "unity": "folha",
+                        "number": 1,
+                        "name": "louro"
+                    },
+                    {
+                        "unity": "ml",
+                        "number": 450,
+                        "name": "caldo de carne fervendo"
+                    },
+                    {
+                        "unity": "a gosto",
+                        "number": null,
+                        "name": "sal e pimenta do reino"
+                    },
+                    {
+                        "unity": "ml",
+                        "number": 15,
+                        "name": "massa de tomate"
+                    }
+                ],
+                "preparation": [
+                    "Aqueça o óleo e refogue a cebola e o alho até dourarem. Acrescente a carne e refogue por 3 a 5 minutos. Adicione o tomate, o louro e um pouco do caldo, tampe e deixe cozinhar, mexendo de vez em quando, até o líquido evaporar",
+                    "Acrescente o restante do caldo e tempere com sal e pimenta. Cozinhe em fogo médio por mais 20 minutos ou até a carne ficar macia (se necessário, acrescente mais caldo de carne ou um pouco de água)",
+                    "Por último, incorpore a massa de tomate, deixe levantar fervura e cozinhe por 1 ou 2 minutos."
+                ]
             }
         ],
         "chicken": [
@@ -2237,6 +2602,463 @@
                     " Dissolva o amido de milho com o açúcar e o suco de laranja. Coloque em uma panela, junte a manteiga e leve ao fogo. ",
                     " Deixe ferver, mexendo sempre. Ferva alguns minutos até ele ficar levemente cremoso",
                     " Arrume os filés em uma travessa, coloque o molho por cima e polvilhe com folhinhas de manjericão. Sirva quente. "
+                ]
+            },
+            {
+                "name": "Frango desfiado com creme de milho",
+                "description": "Torta de frango super saborosa e úmida.",
+                "image": "https://www.ecasanove.com.br/img_blg/receita-frango-com-creme-de-milho.jpg",
+                "ingredients": [
+                    {
+                        "unity": "unidade",
+                        "number": 1,
+                        "name": "peito de frango desfiado"
+                    },
+                    {
+                        "unity": "unidades",
+                        "number": 3,
+                        "name": "dentes de alho"
+                    },
+                    {
+                        "unity": "unidade",
+                        "number": 1,
+                        "name": "cebola picada"
+                    },
+                    {
+                        "unity": "unidade",
+                        "number": 1,
+                        "name": "caixa de creme de leite"
+                    },
+                    {
+                        "unity": "lata",
+                        "number": 1,
+                        "name": "milho verde"
+                    },
+                    {
+                        "unity": "sachê",
+                        "number": 1,
+                        "name": "molho pronto"
+                    },
+                    {
+                        "unity": "copo",
+                        "number": 1,
+                        "name": "requeijão"
+                    },
+                    {
+                        "unity": "a gosto",
+                        "number": null,
+                        "name": "sal"
+                    },
+                    {
+                        "unity": "a gosto",
+                        "number": null,
+                        "name": "pimenta-de-cheiro"
+                    },
+                    {
+                        "unity": "fatias",
+                        "number": 4,
+                        "name": "queijo mussarela"
+                    }
+                ],
+                "preparation": [
+                    "Cozinhe o peito do frango juntamente com o alho",
+                    "Desfie o frango",
+                    "Em uma panela, esquente o óleo, coloque a cebola e deixe dourar",
+                    "Coloque o molho pronto, o frango desfiado e deixe refogando por uns 5 minutos",
+                    "Enquanto isso, bata o creme de leite juntamente com o milho no liquidificador",
+                    "Pegue uma forma de vidro e nela coloque o requeijão",
+                    "Depois coloque o frango refogado em cima, logo após, o creme de milho",
+                    "Cubra com o queijo e leve ao forno médio, por aproximadamente 40 minutos."
+                ]
+            },
+            {
+                "name": "Filé de frango á rolê",
+                "description": "Rolinhos de frango",
+                "image": "https://xtudoreceitas.com/wp-content/uploads/Bife-a-role-de-frango.jpg",
+                "ingredients": [
+                    {
+                        "unity": "kg",
+                        "number": 1.5,
+                        "name": "filé de peito de frango"
+                    },
+                    {
+                        "unity": "latas",
+                        "number": 2,
+                        "name": "molho de tomate"
+                    },
+                    {
+                        "unity": "unidades",
+                        "number": 2,
+                        "name": "cenouras cozidas e cortadas em palitos"
+                    },
+                    {
+                        "unity": "unidade",
+                        "number": 0.5,
+                        "name": "pimentão em palitos"
+                    },
+                    {
+                        "unity": "unidades",
+                        "number": 2,
+                        "name": "ovos cozidos cortados em palito"
+                    },
+                    {
+                        "unity": "a gosto",
+                        "number": null,
+                        "name": "palito de dente"
+                    }
+                ],
+                "preparation": [
+                    "Coloque o filé de peito de frango em cima de um pedaço de papel filme ou outro plástico qualquer e cubra com outro pedaço, bata com um martelinho de carne para afinar os bifes mais um pouco. Coloque uns palitos de cenoura, pimentão e ovo cozido e enrole os bifinhos. Prenda os rolinhos com palitos de dentes e reserve",
+                    "Coloque o molho de tomates em uma panela. Aqui usei um molho caseiro, mas pode usar um em lata da sua preferência. Deixe ferver e acomode os rolinhos. Tampe a panela, baixe o fogo e deixe cozinhar. Vire os rolinhos e deixe cozinhar mais um pouco. Depois destampe e deixe o molho apurar. Prontinho."
+                ]
+            },
+            {
+                "name": "Frango assado com limão siciliano",
+                "description": "Um frango de forno com sabor meio amargo e refrescante.",
+                "image": "http://1.bp.blogspot.com/-TvXo3pRwjrU/VAYnCqm85ZI/AAAAAAAACMk/9rdU2J-TJS8/s1600/Frango%2BAssado%2Bcom%2BMel%2Be%2BLim%C3%A3o%2BSiciliano.jpg",
+                "ingredients": [
+                    {
+                        "unity": "kg",
+                        "number": 1,
+                        "name": "frango a passarinho cortado com pele"
+                    },
+                    {
+                        "unity": "unidades",
+                        "number": 2,
+                        "name": "Limão siciliano"
+                    },
+                    {
+                        "unity": "ml",
+                        "number": 100,
+                        "name": "vinho branco seco"
+                    },
+                    {
+                        "unity": "cabeça",
+                        "number": 1,
+                        "name": "alho, separar os dentes e deixar com a casca"
+                    },
+                    {
+                        "unity": "ramos",
+                        "number": 3,
+                        "name": "tomilho fresco"
+                    },
+                    {
+                        "unity": "ml",
+                        "number": 45,
+                        "name": "azeite extra virgem"
+                    },
+                    {
+                        "unity": "a gosto",
+                        "number": null,
+                        "name": "sal e pimenta-do-reino"
+                    },
+                    {
+                        "unity": null,
+                        "number": null,
+                        "name": "papel alumínio"
+                    }
+                ],
+                "preparation": [
+                    "Lave bem os pedaços de frango com limão e água",
+                    "Corte o limão siciliano em gomos, mantendo a casca",
+                    "Em uma assadeira coloque todos os ingredientes: frango, vinho branco, dentes de alho, limão, folhas de tomilho, azeite, sal e pimenta",
+                    "Misture bem com as mãos e arrume os pedaços de frango com a pele para cima",
+                    "Cubra a assadeira com papel alumínio com o lado brilhante para dentro",
+                    "Leve para assar em forno pré-aquecido a 180ºC por aproximadamente 40 minutos ou até que a carne do frango comece a se desgrudar do osso",
+                    "Quando o frango estiver macio e cozido, retire o papel alumínio e aumente o forno para 220°C. Asse até ficar bem dourado",
+                    "Você pode utilizar coxa e sobrecoxa para o preparo deste prato",
+                    "O alho assado com a casca fica com um sabor muito suave e adocicado, experimente como um patê num pão fresquinho."
+                ]
+            },
+            {
+                "name": "Crepioca de frango",
+                "description": "Cremosa e nutritiva para se manter na dieta.",
+                "image": "http://adorocozinhar.com/wp-content/uploads/2015/07/crepioca_com_frango.jpg",
+                "ingredients": [
+                    {
+                        "unity": "unidade",
+                        "number": 1,
+                        "name": "ovo"
+                    },
+                    {
+                        "unity": "unidade",
+                        "number": 1,
+                        "name": "clara de ovo"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 15,
+                        "name": "polvilho azedo"
+                    },
+                    {
+                        "unity": "ml",
+                        "number": 15,
+                        "name": "água"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 25,
+                        "name": "iogurte desnatado ou queijo cottage"
+                    },
+                    {
+                        "unity": "á gosto",
+                        "number": null,
+                        "name": "sal"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 200,
+                        "name": "frango desfiado"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 20,
+                        "name": "requeijão light"
+                    }
+                ],
+                "preparation": [
+                    "Bata os ovos, a água, o polvilho e o iogurte (ou cottage) no mixer ou liquidificador",
+                    "Coloque 1/3 da massa na frigideira antiaderente pré aquecida e cozinhe em fogo baixo",
+                    "Quando despregar da panela, vire e espere dourar do outro lado. Frite o restante da massa",
+                    "Recheie cada crepioca com frango e um pouquinho de requeijão e enrole ou dobre ao meio."
+                ]
+            },
+            {
+                "name": "Rolinho de frango com queijo e calabresa",
+                "description": "Um otimo prato para diferenciar seu cardápio",
+                "image": "https://i2.wp.com/www.hojetemfrango.com.br/wp-content/uploads/2016/05/Receitas-Fil%C3%A9-de-Peito-IQF-Sem-Tempero-e1464621104856.jpg?",
+                "ingredients": [
+                    {
+                        "unity": "kg",
+                        "number": 1,
+                        "name": "filé de frango"
+                    },
+                    {
+                        "unity": "unidade",
+                        "number": 0.5,
+                        "name": "cebola"
+                    },
+                    {
+                        "unity": "dentes",
+                        "number": 2,
+                        "name": "alho"
+                    },
+                    {
+                        "unity": "a gosto",
+                        "number": null,
+                        "name": "folha de cheiro verde"
+                    },
+                    {
+                        "unity": "unidades",
+                        "number": 3,
+                        "name": "folha de manjericão"
+                    },
+                    {
+                        "unity": "a gosto",
+                        "number": null,
+                        "name": "sal"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 150,
+                        "name": "queijo"
+                    },
+                    {
+                        "unity": "unidades",
+                        "number": 2,
+                        "name": "linguiça calabresa cortada em tiras"
+                    },
+                    {
+                        "unity": null,
+                        "number": null,
+                        "name": "palito de dente para fechar"
+                    },
+                    {
+                        "unity": "unidade",
+                        "number": 1,
+                        "name": "ovo para pincelar"
+                    }
+                ],
+                "preparation": [
+                    "Coloque no liquidificador a cebola, o alho, o sal, e as folhas, bata bem e faça um tempero cremoso. Se for preciso acrescente um pouquinho de água na hora de bater para facilitar",
+                    "Lambuze todos os filés com este tempero e reserve. Corte o queijo em forma de palito como a calabresa. Pegue um filé aberto e coloque um pedaço de queijo e um pedaço de calabresa. Enrole o filè e com o auxílio de palitos de dentes feche cada um deles. Arrume-os em um refratário ou forma untada. Bata o ovo, só para misturar a clara e a gema, acrescente sal e pincele por cima dos rolinhos com a ajuda de um pincel culinário ou um chumaço de algodão. Leve ao forno médio até dourar.",
+                    "Assim que dourar retire do forno, o filé de frango assa muito rápido e se você deixar no forno depois de dourado vai acabar ficando ressecado."
+                ]
+            },
+            {
+                "name": "Salpicão de frango",
+                "description": "Super simples de fazer.",
+                "image": "https://receitinhas.s3-sa-east-1.amazonaws.com/wp-content/uploads/2016/12/salpicao-de-frango-848x477.jpg",
+                "ingredients": [
+                    {
+                        "unity": "g",
+                        "number": 500,
+                        "name": "peito de frango cozido e desfiado"
+                    },
+                    {
+                        "unity": "unidades",
+                        "number": 2,
+                        "name": "cenoura grande ralada"
+                    },
+                    {
+                        "unity": "lata",
+                        "number": 1,
+                        "name": "ervilha"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 200,
+                        "name": "uva passa"
+                    },
+                    {
+                        "unity": "unidade",
+                        "number": 1,
+                        "name": "maçã"
+                    },
+                    {
+                        "unity": null,
+                        "number": null,
+                        "name": "maionese"
+                    },
+                    {
+                        "unity": null,
+                        "number": null,
+                        "name": "cheiro-verde"
+                    },
+                    {
+                        "unity": null,
+                        "number": null,
+                        "name": "batata palha"
+                    }
+                ],
+                "preparation": [
+                    "Misture todos ingredientes, menos a batata palha",
+                    "Após misturar todos ingredientes, cobrir com batata palha",
+                    "Agora é só servir e saborear "
+                ]
+            },
+            {
+                "name": "Omelete de peito de frango ao forno",
+                "description": "Um omelete como você nunca viu!!",
+                "image": "https://oquetemnageladeirahoje.files.wordpress.com/2013/05/omelete-2.jpg",
+                "ingredients": [
+                    {
+                        "unity": "unidades",
+                        "number": 4,
+                        "name": "ovo"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 500,
+                        "name": "peito de frango cortados bem finos"
+                    },
+                    {
+                        "unity": null,
+                        "number": null,
+                        "name": "oregano"
+                    },
+                    {
+                        "unity": null,
+                        "number": null,
+                        "name": "margarina para untar"
+                    },
+                    {
+                        "unity": "a gosto",
+                        "number": null,
+                        "name": "sal"
+                    }
+                ],
+                "preparation": [
+                    "Unte um refratário com margarina",
+                    "Tempere o peito de frango",
+                    "Arrume o peito de frango dentro do refratário untado com margarina",
+                    "Bata os ovos com um pouco de orégano ao seu gosto e despeje por cima do peito",
+                    "Leve ao forno por 20 minutos."
+                ]
+            },
+            {
+                "name": "Patê de frango",
+                "description": "Uma boa opção para seu lanche da tarde",
+                "image": "https://t2.rg.ltmcdn.com/pt/images/7/7/3/pate_de_frango_com_creme_de_leite_e_cenoura_5377_600.jpg",
+                "ingredients": [
+                    {
+                        "unity": "g",
+                        "number": 200,
+                        "name": "peito de frango cozido e desfiado"
+                    },
+                    {
+                        "unity": "unidade",
+                        "number": 1,
+                        "name": "cenoura média ralada"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 200,
+                        "name": "maionese"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 70,
+                        "name": "milho-verde em conserva"
+                    },
+                    {
+                        "unity": "a gosto",
+                        "number": null,
+                        "name": "sal"
+                    }
+                ],
+                "preparation": [
+                    "Em uma tigela, misture todos os ingredientes e leve à geladeira por 30 minutos",
+                    "Está pronto para servir"
+                ]
+            },
+            {
+                "name": "Peito de frango com creme de cebola",
+                "description": "com batata e bacon. Não tem como ser ruim, né?",
+                "image": "http://2.bp.blogspot.com/-UEAYtx4G3QI/T0pakRXbSDI/AAAAAAAACVM/rGMHh5pL5sQ/s1600/DSC02300.JPG",
+                "ingredients": [
+                    {
+                        "unity": "kg",
+                        "number": 1,
+                        "name": "peito de frango"
+                    },
+                    {
+                        "unity": "pacote",
+                        "number": 1,
+                        "name": "creme de cebola"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 200,
+                        "name": "bacon fatiados"
+                    },
+                    {
+                        "unity": "a gosto",
+                        "number": null,
+                        "name": "alho, sal e pimenta do reino"
+                    },
+                    {
+                        "unity": "unidades",
+                        "number": 5,
+                        "name": "batatas cortadas em fatias"
+                    },
+                    {
+                        "unity": "unidades",
+                        "number": 2,
+                        "name": "limão"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 36,
+                        "name": "maionese"
+                    }
+                ],
+                "preparation": [
+                    "Tempere o frango em uma tigela com alho, limão, pimenta do reino e sal",
+                    "Em seguida coloque o creme de cebola e maionese, acrescente as batatas e misture tudo",
+                    "Coloque em uma forma untada com um pouco de óleo e leve ao forno",
+                    "Enquanto assa, corte o bacon em fatias não muito finas, quando estiver começando a dourar de um lado vire e coloque o bacon",
+                    "Quando estiver dourado e as batatas crocantes esta na hora de servir."
                 ]
             }
         ],
@@ -3308,8 +4130,7 @@
                     " Deixe esfriar e faça pequenas bolas com a mão passando a massa no chocolate granulado."
                 ]
             },
-            {
-            }
+            {}
         ],
         "salty fit": [
             {
@@ -4805,9 +5626,7 @@
                     "-  Asse em forno pré-aquecido a 180 graus por mais ou menos 25 minutos ou até dourar;",
                     "- Espere esfriar para desenformar e montar. Ideal deixar um pouco na geladeira."
                 ]
-         
             },
-            
             {
                 "name": "Sorvete de Manga Light",
                 "description": "Essa receita de sorvete de manga light pode ser dada às crianças e caso ache necessário pode adoçar com mel.",
