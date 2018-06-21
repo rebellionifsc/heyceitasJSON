@@ -1829,6 +1829,317 @@
                 ]
             },
             {
+                "name": "Empadão de carne",
+                "description": "Empada em tamanho big",
+                "image": "https://truffle-assets.imgix.net/73ddb60e-empadao-de-carne-l-thumb.jpg",
+                "ingredients": [
+                    {
+                        "unity": "g",
+                        "number": 250,
+                        "name": "farinha de trigo"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 200,
+                        "name": "manteiga gelada com sal"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 3,
+                        "name": "sal"
+                    },
+                    {
+                        "unity": "ml",
+                        "number": 55,
+                        "name": "água"
+                    },
+                    {
+                        "unity": null,
+                        "number": null,
+                        "name": "azeite de oliva"
+                    },
+                    {
+                        "unity": "unidade",
+                        "number": 1,
+                        "name": "cebola picada"
+                    },
+                    {
+                        "unity": "dentes",
+                        "number": 3,
+                        "name": "alho picados"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 600,
+                        "name": "carne moída"
+                    },
+                    {
+                        "unity": "a gosto",
+                        "number": null,
+                        "name": "sal"
+                    },
+                    {
+                        "unity": "a gosto",
+                        "number": null,
+                        "name": "pimenta-do-reino"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 140,
+                        "name": "azeitonas verdes cortadas em rodelas"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 300,
+                        "name": "molho de tomate"
+                    },
+                    {
+                        "unity": "unidade",
+                        "number": 1,
+                        "name": "maço de salsinha picada"
+                    },
+                    {
+                        "unity": null,
+                        "number": null,
+                        "name": "gema para pincelar"
+                    }
+                ],
+                "preparation": [
+                    "Colocar a farinha em uma tigela e adicionar a manteiga cortada em cubinhos. Amassar com a ponta dos dedos até formar uma farofa",
+                    "Adicionar o sal",
+                    "Adicionar a água aos poucos, até obter a liga desejada. Reservar na refrigeração por 1 hora",
+                    "Em uma panela quente, dispor o azeite de oliva e refogar a cebola e o alho",
+                    "Juntar a carne moída e refogar até ficar bem dourada",
+                    "Temperar com sal e pimenta-do-reino",
+                    "Juntar as azeitonas em rodelas e o molho de tomate",
+                    "Deixar ferver até o molho ficar bem espesso e grudado na carne",
+                    "Desligar o fogo e juntar a salsinha. Reservar para esfriar",
+                    "Dividir a massa em 2. Abrir com auxílio de um rolo as 2 partes",
+                    "Dispor uma parte sob uma forma e colocar o recheio de carne",
+                    "Cobrir com a outra parte de massa, pincelar a gema e assar por 1 hora em forno preaquecido a 180 graus"
+                ]
+            },
+            {
+                "name": "Bolinho de abóbora e carne seca",
+                "description": "Esse bolinho de abóbora e carne seca é um abraço de mãe em forma de comida.",
+                "image": "http://institucional.confianca.com.br/wp-content/uploads/2016/07/bolinho-abobora-carne-seca.jpg",
+                "ingredients": [
+                    {
+                        "unity": "g",
+                        "number": 12,
+                        "name": "manteiga"
+                    },
+                    {
+                        "unity": "unidade",
+                        "number": 0.5,
+                        "name": "alho picado"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 500,
+                        "name": "carne seca cozida e desfiada"
+                    },
+                    {
+                        "unity": "a gosto",
+                        "number": null,
+                        "name": "sal"
+                    },
+                    {
+                        "unity": "a gosto",
+                        "number": null,
+                        "name": "pimenta-do-reino"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 7,
+                        "name": "salsinha picada"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 500,
+                        "name": "abóbora cozida em cubos"
+                    },
+                    {
+                        "unity": "l",
+                        "number": 1,
+                        "name": "caldo de legumes fervente"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 30,
+                        "name": "manteiga"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 660,
+                        "name": "farinha de trigo"
+                    },
+                    {
+                        "unity": "unidades",
+                        "number": 2,
+                        "name": "ovos"
+                    },
+                    {
+                        "unity": "g",
+                        "number": 120,
+                        "name": "farinha de pão"
+                    }
+                ],
+                "preparation": [
+                    "Refogar na manteiga, a cebola, o alho e a carne seca. corrigir o sal, se necessário, temperar com pimenta e adicionar a salsinha picada. Reservar",
+                    "Amassar a abóbora, dispor em uma panela, juntar o caldo de legumes e a manteiga e cozinhar por, aproximadamente, 10 minutos ou até que a mistura esteja fervente",
+                    "Baixar o fogo, juntar a farinha toda de uma vez e mexer bem até a massa ficar consistente",
+                    "Retirar do fogo, sovar a massa e adicionar, uma a uma, as duas gemas, misturando bem a cada adição",
+                    "Abrir pequenas porções de massa com a mão e rechear com a carne seca",
+                    "Formatar as bolinhas e passar na clara e na farinha de pão",
+                    "Fritar em óleo quente, escorrer em papel absorvente e servir."
+                ]
+            },
+            {
+                "name": "Pão de alho com carne",
+                "description": "Pão de alho com carne louca, o que já era bom ficou ainda melhor!",
+                "image": "https://truffle-assets.imgix.net/ea47af1a-pao-de-alho-com-carne-louca-l-thumb.jpg",
+                "ingredients": [
+                    {
+                        "unity": "g",
+                        "number": 200,
+                        "name": "carne cozida desfiada"
+                    },
+                    {
+                        "unity": "unidades",
+                        "number": 2,
+                        "name": "tomate sem semente e sem pele picados"
+                    },
+                    {
+                        "unity": "unidade",
+                        "number": 0.5,
+                        "name": "cebola roxa em tiras"
+                    },
+                    {
+                        "unity": "unidade",
+                        "number": 0.5,
+                        "name": "pimentão vermelho picado"
+                    },
+                    {
+                        "unity": "unidade",
+                        "number": 0.5,
+                        "name": "pimentão amarelo picado"
+                    },
+                    {
+                        "unity": "unidade",
+                        "number": 0.25,
+                        "name": "maço de salsinha picada"
+                    },
+                    {
+                        "unity": "unidade",
+                        "number": 0.25,
+                        "name": "xícara de vinagre de vinho tinto"
+                    },
+                    {
+                        "unity": "ml",
+                        "number": 120,
+                        "name": "azeite de oliva"
+                    },
+                    {
+                        "unity": "a gosto",
+                        "number": null,
+                        "name": "sal"
+                    },
+                    {
+                        "unity": "a gosto",
+                        "number": null,
+                        "name": "pimenta do reino"
+                    },
+                    {
+                        "unity": "unidades",
+                        "number": 10,
+                        "name": "pães de alho"
+                    }
+                ],
+                "preparation": [
+                    "Em um recipiente, misturar a carne, o tomate, a cebola, o pimentão vermelho, o pimentão amarelo e a salsinha. Temperar com o vinagre, o azeite, o sal e a pimenta",
+                    "Cortar o pão de alho ao meio, rechear com a carne e levar ao forno preaquecido a 180 graus por, aproximadamente, 25 minutos",
+                    "Servir em pedaços."
+                ]
+            },
+            {
+                "name": "Bife a cavalo com batata frita",
+                "description": "Comida rápida e prática de fazer!",
+                "image": "https://easyportugueserecipes.com/wp-content/uploads/2013/09/ovo-lellisEduardoCesarFotoa.jpg",
+                "ingredients": [
+                    {
+                        "unity": "a gosto",
+                        "number": null,
+                        "name": "batata palito"
+                    },
+                    {
+                        "unity": null,
+                        "number": null,
+                        "name": "azeite de oliva"
+                    },
+                    {
+                        "unity": "unidade",
+                        "number": 1,
+                        "name": "bife"
+                    },
+                    {
+                        "unity": "a gosto",
+                        "number": null,
+                        "name": "sal"
+                    },
+                    {
+                        "unity": "a gosto",
+                        "number": null,
+                        "name": "pimenta do reino"
+                    },
+                    {
+                        "unity": "unidade",
+                        "number": 1,
+                        "name": "ovo"
+                    }
+                ],
+                "preparation": [
+                    "Aquecer o óleo e fritar as batatas",
+                    "Escorrer em papel absorvente e reservar",
+                    "Aquecer uma frigideira e regar com azeite de oliva",
+                    "Selar o bife dos dois lados e temperar com sal e pimenta",
+                    "Regar a frigideira com mais azeite e fritar o ovo",
+                    "Servir com o bife e com as batatas fritas"
+                ]
+            },
+            {
+                "name": "Torta de carne moída com ovos",
+                "description": "Torta salgada e super saborosa",
+                "image": "https://truffle-assets.imgix.net/84cnzp0itw1q_30H0Lw7JMksoyAyu0eCumK_bolo-de-carne-recheado_landscapeThumbnail_pt.jpeg",
+                "ingredients": [
+                    {
+                        "unity": "g",
+                        "number": 500,
+                        "name": "carne moída temperada"
+                    },
+                    {
+                        "unity": "a gosto",
+                        "number": null,
+                        "name": "azeite"
+                    },
+                    {
+                        "unity": "a gosto",
+                        "number": null,
+                        "name": "ovos"
+                    },
+                    {
+                        "unity": "a gosto",
+                        "number": null,
+                        "name": "orégano"
+                    }
+                ],
+                "preparation": [
+                    "Unte uma assadeira com azeite e disponha a carne, como se fosse uma base de torta",
+                    "Quebre os ovos um a um por cima, cubra com orégano e leve ao forno até que os ovos estejam cozidos",
+                    "Ao tirar do forno, você vai notar que uma grande quantidade de água soltou da carne, daí tire a torta da assadeira e coloque em um outro refratário, já que ela estará completamente desgrudada."
+                ]
+            },
+            {
                 "name": "Hambúrguer à parmegiana",
                 "description": "O hambúrguer turbinado, à modo parmegiana.",
                 "image": "http://semmedida.com/wp-content/uploads/2014/05/parmegiana_burguer_semmedida_larissa_januario1-968x1024.jpg",
@@ -8867,6 +9178,302 @@
                     " Pincele com tarê todos os espetinhos depois de prontos e sirva"
                 ]
             }
+        ],
+        "lactose free":[
+            {
+                "name": "Maionese de abacate",
+                "description": "A maionese de abacate é uma alternativa à maionese tradicional, sem adição de ovos ou qualquer outro ingrediente de origem animal",
+                "image": "https://www.natue.com.br/natuelife/wp-content/uploads/2018/05/maionese-de-abacate-3.jpg",
+                "ingredients": [
+    
+                    {
+                        "unity": "unidade",
+                        "number": 1,
+                        "name": "abacate médio"
+                    },
+    
+                    {
+                        "unity": "colheres de sopa",
+                        "number": 2,
+                        "name": "mostarda"
+                    },
+    
+                    {
+                        "unity": "unidade",
+                        "number": 1,
+                        "name": "dente de alho"
+                    },
+    
+                    {
+                        "unity": null,
+                        "number": null,
+                        "name": "suco de meio limão"
+                    },
+    
+                    {
+                        "unity": "colher de chá",
+                        "number": 1,
+                        "name": "sal"
+                    },
+    
+                    {
+                        "unity": "a gosto",
+                        "number": null,
+                        "name": "coentro fresco"
+                    },
+    
+                    {
+                        "unity": "xícara",
+                        "number": 0.5,
+                        "name": "azeite"
+                    }
+                ],
+    
+                "preparation": [
+                    "Coloque os ingredientes, exceto o azeite, no liquidificador e bata até obter um creme",
+                    "Acrescente o azeite aos poucos até obter uma textura de maionese",
+                    "Se necessário, ajuste o sal e temperos"
+                ]
+            },
+    
+            {
+                "name": "Creme de milho sem lactose",
+                "description": "Esta receita de creme de milho é elaborada sem lactose, podendo ser consumida por pessoas com intolerância alimentar ou até alergia à proteína do soro do leite",
+                "image": "https://www.natue.com.br/natuelife/wp-content/uploads/2016/11/IMAGEM_creme_de_milho_editado.jpg",
+                "ingredients": [
+    
+                    {
+                        "unity": "xícaras",
+                        "number": 2,
+                        "name": "leite de arroz"
+                    },
+    
+                    {
+                        "unity": "colheres de sopa",
+                        "number": 2,
+                        "name": "biomassa de banana verde"
+                    },
+    
+                    {
+                        "unity": "xícaras",
+                        "number": 2,
+                        "name": "milho verde cozido"
+                    },
+    
+                    {
+                        "unity": "colheres de sopa",
+                        "number": 2,
+                        "name": "azeite"
+                    },
+    
+                    {
+                        "unity": "a gosto",
+                        "number": null,
+                        "name": "noz moscada moída, sal e pimenta do reino"
+                    }
+                ],
+    
+                "preparation": [
+                    "Aqueça o leite de arroz",
+                    "Em um liquidificador, bata o leite com a biomassa de banana verde até ficar homogêneo",
+                    "Adicione 1 xícara de milho verde e bata até obter um creme, se necessário acrescente um pouco de água",
+                    "Em uma panela sobre fogo baixo, aqueça o azeite e refogue a cebola",
+                    "Quando as cebolas murcharem acrescente o restante do milho e refogue rapidamente",
+                    "Aumente o fogo, adicione o creme batido. Mexa constantemente até o creme estar quente e na textura desejada. Tempere com a noz moscada moída, sal e pimenta do reino",
+                    "Retire do fogo e sirva imediatamente acompanhando o prato principal de sua escolha",
+                    "Caso não sirva imediatamente, quando esquentar acrescente um pouco de água e incorpore ao creme sobre fogo brando"
+        
+                ]
+            
+            }
+        ],
+        "gluten free":[
+            {
+                "name": "Muffin de pasta de avelã e cacau",
+                "description": "Esta receita de muffin é deliciosa e uma ótima opção de lanche prático para levar na bolsa.",
+                "image": "https://www.natue.com.br/natuelife/wp-content/uploads/2017/04/shutterstock_574916575.jpg",
+                "ingredients": [
+    
+                    {
+                        "unity": "xícara",
+                        "number": 0.75,
+                        "name": "farinha de espelta ou integral"
+                    },
+    
+                    {
+                        "unity": "colher de sopa",
+                        "number": 1.5,
+                        "name": "fermento biológico"
+                    },
+    
+                    {
+                        "unity": "pitada",
+                        "number": 1,
+                        "name": "sal"
+                    },
+    
+                    {
+                        "unity": "xícara",
+                        "number": 0.25,
+                        "name": "purê de maçã puro"
+                    },
+    
+                    {
+                        "unity": "xícara",
+                        "number": 0.25,
+                        "name": "açúcar de coco"
+                    },
+    
+                    {
+                        "unity": "colher de sopa",
+                        "number": 1,
+                        "name": "linhaça"
+                    },
+    
+                    {
+                        "unity": "colheres de sopa",
+                        "number": 3,
+                        "name": "pasta de avelã e cacau"
+                    },
+    
+                    {
+                        "unity": "colher de sopa",
+                        "number": 1,
+                        "name": "óleo de coco"
+                    },
+    
+                    {
+                        "unity": "colher de sopa",
+                        "number": 0.5,
+                        "name": "extrato de baunilha"
+                    },
+    
+                    {
+                        "unity": "xícara",
+                        "number": 0.5,
+                        "name": "leite amêndoas"
+                    },
+    
+                    {
+                        "unity": "colher de sopa",
+                        "number": 0.5,
+                        "name": "vinagre de maçã"
+                    },
+    
+                    {
+                        "unity": "xícara",
+                        "number": 0.25,
+                        "name": "nibs de cacau"
+                    },
+    
+                    {
+                        "unity": "colheres de sopa",
+                        "number": 2,
+                        "name": "avelãs picadas (opcional)"
+                    }
+                ],
+    
+                "preparation": [
+                    "Pré-aqueça o forno a 180°",
+                    "Misture a farinha, o fermento e o sal em um bowl",
+                    "Em outro recipiente, misture o purê de maçã com o vingre",
+                    "Depois, misture os ingredientes molhados aos secos até obter uma massa homogênea",
+                    "Adicione os nibs de cacau e avelãs picadas à massa",
+                    "Divida em 6 forminhas e asse por 20 minutos ou até ficarem douradinhos e firme no topo"
+                ]
+            },
+    
+            {
+                "name": "Bolo de laranja de liquidificador",
+                "description": "Um bolo quentinho saindo do forno é irresistível… Como este bolo de laranja que, além de muito saboroso, é fácil de fazer.",
+                "image": "https://www.natue.com.br/natuelife/wp-content/uploads/2016/09/BoloLaranjaLiquidificador1-1.jpg",
+                "ingredients": [
+    
+                    {
+                        "unity": "unidade",
+                        "number": 1,
+                        "name": "laranja"
+                    },
+    
+                    {
+                        "unity": "ml",
+                        "number": 200,
+                        "name": "óleo de coco"
+                    },
+    
+                    {
+                        "unity": "unidade",
+                        "number": 3,
+                        "name": "ovos"
+                    },
+    
+                    {
+                        "unity": "copo",
+                        "number": 1.5,
+                        "name": "açúcar de coco"
+                    },
+    
+                    {
+                        "unity": "copo",
+                        "number": 1.5,
+                        "name": "farinha de arroz"
+                    },
+    
+                    {
+                        "unity": "colher de sopa",
+                        "number": 1,
+                        "name": "fermento em pó"
+                    }
+                ],
+    
+                "preparation": [
+                    "Pré-aqueça o forno a 200°",
+                    "Corte a laranja, já higienizada, em 4 partes, mantendo apenas a polpa e a casca (sem as sementes e o albedo)",
+                    "No liquidificador, bata a laranja, o óleo e os ovos. Aos poucos, adicione a farinha e o açúcar. Bata bem. Em seguida, acrescente o fermento",
+                    "Leve para assar por cerca de 45 minutos ou até estar assado."
+    
+                ]
+            },
+    
+            {
+                "name": "Brigadeiro de paçoca",
+                "description": "Esta receita de brigadeiro de paçoca é uma ótima opção de docinho para comer sem culpa de sair da dieta.",
+                "image": "https://www.natue.com.br/natuelife/wp-content/uploads/2016/08/Brigadeiro1.jpg",
+                "ingredients": [
+    
+                    {
+                        "unity": "ml",
+                        "number": 200,
+                        "name": "leite de amêndoas ou de coco"
+                    },
+    
+                    {
+                        "unity": "colher de sopa",
+                        "number": 1,
+                        "name": "açúcar de coco"
+                    },
+    
+                    {
+                        "unity": "xícara",
+                        "number": 0.5,
+                        "name": "biomassa de banana verde"
+                    },
+    
+                    {
+                        "unity": "xícara",
+                        "number": 0.5,
+                        "name": "paçoca sem açúcar"
+                    }
+                ],
+    
+                "preparation": [
+                    "Em uma panela, leve todos os ingredientes, exceto a paçoca, ao fogo médio. Mexa até a massa desgrudar do fundo",
+                    "Deixe esfriar e, em seguida, leve a massa para o congelador por cerca de três horas",
+                    "Faça bolinhas e enrole-as com a paçoca."
+                ]
+            }
+        
         ]
-    }
+    }    
 }
+    
